@@ -4,7 +4,7 @@ const ThirdSection = () => {
   return (
     <div>
       <div className="mx-auto text-center flex justify-center items-center md:text-6xl text-3xl font-medium py-14">
-        What make us different ?
+        What other products we offer that make us different ?
       </div>
 
       <div className="py-20">
@@ -24,11 +24,11 @@ const ThirdSection = () => {
               <div className="flex gap-6">
                 <div>
                   <div className="text-[#2b1c50] font-medium leading-normal text-3xl md:text-5xl">
-                    Tech Excellence
+                    Instantly Website Generation
                   </div>
                   <div className="text-xl text-[#3d2e7c] leading-10 font-light pt-6">
-                    Explore tutorials, articles, and workshops covering the
-                    latest trends and advancements in the tech sphere.
+                    Instantly Create Tailored Learning Websites with AI - One
+                    Click Away!
                   </div>
                 </div>
               </div>

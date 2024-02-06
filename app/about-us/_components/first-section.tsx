@@ -18,7 +18,7 @@ const FirstSection = () => {
         >
           About Us
         </div>
-      
+
         <div
           className="
         text-5xl
@@ -30,7 +30,7 @@ const FirstSection = () => {
         text-[#681b58]
         "
         >
-          Your Gateway to Versatile Learning and Entrepreneurial Growth!
+          meets expertise to shape the future of technology.
         </div>
         <p
           className="
@@ -43,9 +43,10 @@ const FirstSection = () => {
         leading-normal
         "
         >
-          We&apos;ve curated a multifaceted platform that encapsulates four
-          distinct yet interwoven domains, catering to the diverse needs of
-          today&apos;s dynamic learners and aspiring entrepreneurs.
+          We&apos; are driven by a shared passion for solving challenges and
+          pushing boundaries. Together, we form a dynamic force committed to
+          creating impactful solutions that address both immediate needs and
+          future opportunities.
         </p>
 
         <div className="flex gap-4 md:justify-center items-center pt-10">
@@ -69,7 +70,7 @@ const FirstSection = () => {
             hover:shadow-indigo-300
             "
             >
-              <PhoneCall className="w-6 h-6"  />
+              <PhoneCall className="w-6 h-6" />
               Request a demo
             </Button>
           </Link>
@@ -96,7 +97,7 @@ const FirstSection = () => {
             "
             >
               <Download className="md:w-6 md:h-6 h-4 w-4" />
-              Download the app
+              Download Our app
             </Button>
           </Link>
         </div>

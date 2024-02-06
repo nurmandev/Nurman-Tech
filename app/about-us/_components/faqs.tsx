@@ -22,12 +22,11 @@ const FAQS = () => {
           value="item-1"
         >
           <AccordionTrigger className="font-medium">
-            How can I access the resources on your platform?
+            What does Nurman Innovate do?
           </AccordionTrigger>
           <AccordionContent>
-            Accessing our resources is easy! Simply sign up for an account on
-            our website to unlock a world of educational content, tech
-            resources, AI-powered tools, and entrepreneurship courses.
+            we specialize in developing cutting-edge technology solutions to
+            address a wide range of challenges and opportunities.
           </AccordionContent>
         </AccordionItem>
 
@@ -36,11 +35,12 @@ const FAQS = () => {
           value="item-2"
         >
           <AccordionTrigger className="font-medium">
-            How can I access All-in-One Hub for Educational Resources?
+            What are we serve?
           </AccordionTrigger>
           <AccordionContent>
-            Accessing our resources is easy! Simply
-            <Link href={"/call"}>book a call</Link>
+            We serves a diverse range of industries, including but not limited
+            to: Technology, Healthcare, Finance, Energy, Education,
+            Manufacturing, Transportation, Retail
           </AccordionContent>
         </AccordionItem>
 
@@ -49,12 +49,14 @@ const FAQS = () => {
           value="item-3"
         >
           <AccordionTrigger className="font-medium">
-            Are the entrepreneurship courses self-paced?
+            How we approach innovation?
           </AccordionTrigger>
           <AccordionContent>
-            Yes, our entrepreneurship courses are designed to be self-paced,
-            allowing you to learn at your convenience and according to your
-            schedule. You can access the course materials anytime, anywhere.
+            We foster a culture of creativity, curiosity, and collaboration,
+            empowering our team to explore new ideas, experiment with emerging
+            technologies, and push the boundaries of what&apos;s possible.
+            Through continuous learning and adaptation, we stay ahead of the
+            curve and drive meaningful innovation.
           </AccordionContent>
         </AccordionItem>
 
@@ -63,13 +65,15 @@ const FAQS = () => {
           value="item-4"
         >
           <AccordionTrigger className="font-medium">
-            How can I provide feedback or suggestions?
+            What sets Nurman Innovative apart from other technology companies?
           </AccordionTrigger>
           <AccordionContent>
-            We value your feedback! You can provide feedback directly through
-            our platform. Look for the feedback section or reach out to our
-            customer support team via email. Your insights help us improve and
-            enhance our offerings.
+            We take data privacy and security extremely seriously. We adhere to
+            the highest standards of data protection and comply with all
+            relevant regulations and best practices. We employ robust
+            encryption, access controls, and monitoring mechanisms to safeguard
+            our client&apos;s data and ensure confidentiality, integrity, and
+            availability at all times.
           </AccordionContent>
         </AccordionItem>
 
@@ -78,13 +82,13 @@ const FAQS = () => {
           value="item-5"
         >
           <AccordionTrigger className="font-medium">
-            Can I suggest topics or resources to be included
+            How can I get in touch for more information?
           </AccordionTrigger>
           <AccordionContent>
-            Absolutely! We encourage suggestions and ideas from our users. If
-            you have specific topics or resources you&apos;d like to see on our
-            platform, feel free to share your suggestions through our feedback
-            channel or contact our support team.
+            For inquiries, partnership opportunities, or general questions,
+            <Link href="/contact">Contact us Here</Link>
+            Our team is here to assist you and provide the information you need
+            to make informed decisions about working with.
           </AccordionContent>
         </AccordionItem>
         <AccordionItem
@@ -92,13 +96,12 @@ const FAQS = () => {
           value="item-6"
         >
           <AccordionTrigger className="font-medium">
-            Is the AI-powered website creation tool user-friendly for beginners?
+            What other Innovative products does Nurman has ?
           </AccordionTrigger>
           <AccordionContent>
-            Absolutely! Our AI tool is designed to be intuitive and
-            user-friendly, catering to individuals with varying levels of
-            technical expertise. With guided steps and easy-to-use features,
-            creating tailored learning websites is simplified for everyone.
+            We&apos;ve curated a multifaceted platform that encapsulates four
+            distinct yet interwoven domains, catering to the diverse needs of
+            today&apos;s dynamic learners and aspiring entrepreneurs.
           </AccordionContent>
         </AccordionItem>
         <AccordionItem

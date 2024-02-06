@@ -10,11 +10,8 @@ const FourthSection = () => {
               Our Mission that make us better than Others
             </div>
             <div className="text-xl font-light mt-4 leading-8 md:text-3xl text-[#d1d1f7] md:text-center mx-auto md:w-3/4">
-              Our mission is to empower individuals and businesses by providing
-              innovative learning solutions that transcend boundaries. We are
-              dedicated to facilitating skill enhancement, fostering creativity,
-              and promoting entrepreneurship through accessible, personalized,
-              and cutting-edge educational platforms.
+              Our mission is to develop technology that not only solves problems
+              but also anticipates and shapes the future.
             </div>
           </div>
 
@@ -46,14 +43,12 @@ const FourthSection = () => {
                 <Link className="text-4xl text-[#1b224b]" />
               </div>
               <div className="md:text-4xl text-md text-[#eff0ff]">
-                “Holistic” Empowerment
+                “Excellence”
               </div>
             </div>
             <div className="text-[#d1d1f7] text-sm font-light leading-6">
-              Our mission focuses not only on business success but also on
-              personal growth. We prioritize empowering individuals to optimize
-              their resources, fostering success in both professional endeavors
-              and personal fulfillment.
+              We strive for excellence in all aspects of our work, delivering
+              high-quality solutions that exceed expectations.
             </div>
           </div>
 
@@ -63,14 +58,12 @@ const FourthSection = () => {
                 <Link className="text-4xl text-[#1b224b]" />
               </div>
               <div className="md:text-4xl text-md text-[#eff0ff]">
-                “Global” Accessibility
+                “Innovation”
               </div>
             </div>
             <div className="text-[#d1d1f7] text-sm font-light leading-6">
-              Our mission aims to reach and assist working individuals
-              worldwide. We strive to make our resources and support accessible
-              to anyone ready to learn and grow, regardless of their location or
-              background.
+              We embrace innovation as a catalyst for change, constantly seeking
+              new ideas and approaches to drive progress.
             </div>
           </div>
 
@@ -80,14 +73,12 @@ const FourthSection = () => {
                 <Link className="text-4xl text-[#1b224b]" />
               </div>
               <div className="md:text-4xl text-md text-[#eff0ff]">
-                “Tailored” Learning
+                “Integrity”
               </div>
             </div>
             <div className="text-[#d1d1f7] text-sm font-light leading-6">
-              We stand out by offering personalized learning solutions. Our
-              commitment is to provide resources that are customizable and
-              adaptable to individual needs, ensuring that our support resonates
-              with each user&apos;s unique circumstances and goals.
+              We conduct ourselves with integrity and honesty, building trust
+              with our clients, partners, and colleagues.
             </div>
           </div>
         </div>
@@ -99,14 +90,25 @@ const FourthSection = () => {
                 <Link className="text-4xl text-[#1b224b]" />
               </div>
               <div className="md:text-4xl text-md text-[#eff0ff]">
-                “Practicality” & Tangibility
+                “Collaboration”
               </div>
             </div>
             <div className="text-[#d1d1f7] text-sm font-light leading-6">
-              We emphasize practicality in our approach. Our mission isn&apos;t
-              just aspirational but provides tangible tools and strategies that
-              individuals can immediately implement to enhance productivity,
-              achieve success, and enjoy a better life.
+              We foster a culture of collaboration, recognizing that our
+              collective strength is greater than the sum of our parts.
+            </div>
+          </div>
+
+          <div className="py-4">
+            <div className="flex items-center pb-4 gap-4">
+              <div className="bg-[#f1f0f3] h-12 w-12 items-center justify-center hidden md:flex rounded-full">
+                <Link className="text-4xl text-[#1b224b]" />
+              </div>
+              <div className="md:text-4xl text-md text-[#eff0ff]">“Impact”</div>
+            </div>
+            <div className="text-[#d1d1f7] text-sm font-light leading-6">
+              We are driven by the desire to make a positive impact, both in the
+              short term and for generations to come.
             </div>
           </div>
 
@@ -116,30 +118,15 @@ const FourthSection = () => {
                 <Link className="text-4xl text-[#1b224b]" />
               </div>
               <div className="md:text-4xl text-md text-[#eff0ff]">
-                “Resource” Optimization
+                “Our Vision”
               </div>
             </div>
             <div className="text-[#d1d1f7] text-sm font-light leading-6">
-              we prioritize resource optimization. We believe that efficiency
-              and productivity come not only from hard work but also from smart
-              resource allocation and utilization.
-            </div>
-          </div>
-
-          <div className="py-4">
-            <div className="flex items-center pb-4 gap-4">
-              <div className="bg-[#f1f0f3] h-12 w-12 items-center justify-center hidden md:flex rounded-full">
-                <Link className="text-4xl text-[#1b224b]" />
-              </div>
-              <div className="md:text-4xl text-md text-[#eff0ff]">
-                “Improvement” Culture
-              </div>
-            </div>
-            <div className="text-[#d1d1f7] text-sm font-light leading-6">
-              Our mission isn&apos;t static; it&apos;s dynamic and evolves to
-              meet the changing needs of our users. We embrace a culture of
-              continuous improvement, consistently enhancing our offerings to
-              ensure they remain relevant and impactful for our audience.
+              Our vision is to be at the forefront of technological innovation,
+              shaping the future of industries and society as a whole. Through
+              our dedication, expertise, and relentless pursuit of excellence,
+              we aim to leave a lasting legacy that inspires and empowers future
+              generations.
             </div>
           </div>
         </div>
