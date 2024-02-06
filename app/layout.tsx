@@ -9,7 +9,7 @@ const font = Outfit({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "WELCOME TO NURMAN INNOVATION",
   description:
-    "Nurman is designed to cater specifically to the needs of SMEs with a proven track record of success, aspiring entrepreneurs with innovative business concepts, and industry professionals seeking specialized entrepreneurial knowledge.",
+    "Our team is dedicated to developing transformative technologies that not only solve complex problems but also pave the way for a more sustainable and prosperous future. Through collaboration, creativity, and unwavering commitment, we aim to make a meaningful impact on industries and communities worldwide.",
 };
 
 export default function RootLayout({
