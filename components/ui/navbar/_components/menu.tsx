@@ -5,20 +5,11 @@ import ContentMenu from "./content-menu";
 import React, { useState } from "react";
 
 import {
-  Building2,
   ChevronDown,
-  Factory,
-  GraduationCap,
-  Headphones,
-  Home,
   Info,
-  LifeBuoy,
   Newspaper,
   Settings,
-  Smile,
-  Sparkles,
   UserCircle2,
-  UserPlus,
 } from "lucide-react";
 
 interface MenuItem {
@@ -33,27 +24,6 @@ const items: MenuItem[] = [
     menu: "use-cases",
     options: [
       {
-        label: "Learning",
-        emoji: <UserPlus className="text-orange-500" />,
-        href: "/learning",
-      },
-      {
-        label: "Enterprenuer",
-        emoji: <Factory className="text-blue-500" />,
-        href: "/enterprenuer",
-      },
-
-      {
-        label: "Education",
-        emoji: <GraduationCap className="text-green-500" />,
-        href: "/education",
-      },
-      {
-        label: "Nurman AI",
-        emoji: <Sparkles className="text-indigo-500" />,
-        href: "/nurman-ai",
-      },
-      {
         label: "Product Management",
         emoji: <Settings className="text-gray-500" />,
         href: "/product",
@@ -62,31 +32,25 @@ const items: MenuItem[] = [
   },
 
   {
-    title: "Business",
-    menu: "for-business",
+    title: "Careers",
+    menu: "Careers",
     options: [
       {
-        label: "Customers",
-        emoji: <Smile className="text-indigo-500" />,
-        href: "/",
+        label: "Careers",
+        emoji: <UserCircle2 className="text-green-500" />,
+        href: "/careers",
       },
     ],
   },
   {
-    title: "Resources",
-    menu: "resources",
+    title: "Blog",
+    menu: "Blog",
     options: [
       {
         label: "Blog",
         emoji: <Newspaper className="text-orange-500" />,
         href: "https://www.linkedin.com/company/nurman-tech",
       },
-      {
-        label: "Help & Support",
-        emoji: <LifeBuoy className="text-green-500" />,
-        href: "/",
-      },
-     
     ],
   },
   {
@@ -97,11 +61,6 @@ const items: MenuItem[] = [
         label: "About Us",
         emoji: <Info className="text-red-500" />,
         href: "/about-us",
-      },
-      {
-        label: "Careers",
-        emoji: <UserCircle2 className="text-green-500" />,
-        href: "/careers",
       },
     ],
   },
