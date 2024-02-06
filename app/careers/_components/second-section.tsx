@@ -7,8 +7,8 @@ const SecondSection: React.FC = () => {
   return (
     <div className="orbit ">
       <div className="center-image ">
-        <Image src="/logo/nur-man-2.png" width={100} height={100} alt="" />
-        <Image src="/logo/nur-man-2.png" width={100} height={100} alt="" />
+        <Image src="/logos/nurman-2.png" width={100} height={100} alt="" />
+        <Image src="/logos/nurman-2.png" width={100} height={100} alt="" />
       </div>
       <ul>
         <li>
