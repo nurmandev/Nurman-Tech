@@ -60,7 +60,7 @@ const FirstSection = () => {
             muted
             loop
           >
-            <source src="/videos/Ai-video.mp4" type="video/mp4" />
+            <source src="/videos/careers.mp4" type="video/mp4" />
           </video>
         </div>
       </div>

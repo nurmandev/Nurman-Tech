@@ -12,7 +12,7 @@ const ThirdSection = () => {
           <div className="md:flex items-center justify-center">
             <div className="px-10 md:px-0 md:w-2/5">
               <Image
-                src="/images/undraw-2.svg"
+                src="/Ai-images/ai-chip-artificial-intelligence.png"
                 alt="image"
                 width={1920}
                 height={1080}
@@ -55,7 +55,7 @@ const ThirdSection = () => {
 
             <div className="md:w-2/5 bg-[#eff0ff] md:ml-6 py-10">
               <Image
-                src="/images/undraw-2.svg"
+                src="/images/front-view.png"
                 alt="image"
                 width={1920}
                 height={1080}

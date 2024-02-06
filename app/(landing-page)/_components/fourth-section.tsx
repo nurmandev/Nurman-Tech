@@ -46,7 +46,7 @@ const FourthSection = () => {
 
             <div className="w-full md:w-96">
               <div className="text-[#111019] font-medium leading-normal md:text-4xl text-2xl">
-                Making people know and remember your brand.
+                Brand Recognition
               </div>
               <div className="md:text-xl text-[#6c6684] leading-8 md:leading-10 font-light pt-6">
                 We help your brand get noticed everywhere. Our goal is to make
@@ -86,7 +86,7 @@ const FourthSection = () => {
               </div>
               <div className="md:w-96">
                 <div className="text-[#111019] font-medium leading-normal text-xl md:text-4xl">
-                  Addressing the challenges posed by distance and time.
+                  Time and Distance
                 </div>
                 <div className="md:text-xl text-[#6c6684] leading-8 md:leading-10 font-light pt-6">
                   Don&apos;t worry about time zones or how far away your
@@ -128,7 +128,7 @@ const FourthSection = () => {
                rounded-[60px]"
           >
             <Image
-              src="/Ai-images/ai-cloud-with-robot.png"
+              src="/images/workaholic.png"
               alt="image"
               width={1920}
               height={1080}
@@ -146,7 +146,7 @@ const FourthSection = () => {
       <div className="pt-10 md:flex items-center justify-center">
         <div className="md:w-2/5 bg-[#b2b3f1] rounded-[60px] md:p-20">
           <Image
-            src="/images/front-view.png"
+            src="/images/guarantee.jpg"
             alt="image"
             width={1920}
             height={1080}
@@ -175,14 +175,14 @@ const FourthSection = () => {
             </div>
             <div className="w-full md:w-96">
               <div className="text-[#111019] font-medium leading-normal md:text-4xl text-2xl">
-                Ways to make sure you get results every time.
+                Guarantee Conversion
               </div>
               <div className="md:text-xl text-[#6c6684] leading-8 md:leading-10 font-light pt-6">
                 Our solutions are all about turning potential customers into
                 paying ones. We promise to help you attract more customers and
                 make more sales.
               </div>
-              <Link href="/education">
+              <Link href="/product">
                 <Button
                   className="
                             md:text-lg

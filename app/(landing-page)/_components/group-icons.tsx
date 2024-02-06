@@ -21,10 +21,10 @@ const CustomLink: React.FC<CustomLinkProps> = ({ link, icon: Icon, name }) => (
 );
 const GroupIconComponent: React.FC = () => (
   <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4 gap-4">
-    <CustomLink link="/web" icon={Component} name="Web Design" />
+    <CustomLink link="/product" icon={Component} name="Web Design" />
     <CustomLink link="/product" icon={Lightbulb} name="Strategic Branding" />
-    <CustomLink link="/seo" icon={Trello} name="SEO Expertise" />
-    <CustomLink link="/application" icon={Blocks} name="App Development" />
+    <CustomLink link="/product" icon={Trello} name="SEO Expertise" />
+    <CustomLink link="/product" icon={Blocks} name="App Development" />
   </div>
 );
 

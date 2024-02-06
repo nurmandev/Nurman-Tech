@@ -1,4 +1,5 @@
 import { ExternalLink } from "lucide-react";
+import Link from "next/link";
 
 const NinthSection = () => {
   return (
@@ -32,10 +33,12 @@ const NinthSection = () => {
 
                         "
               >
-                <div className="flex gap-2">
-                  <ExternalLink className="text-sm text-white" />
-                  <div>Learn more</div>
-                </div>
+                <Link href="/about-us">
+                  <div className="flex gap-2">
+                    <ExternalLink className="text-sm text-white" />
+                    <div>Learn more</div>
+                  </div>
+                </Link>
               </div>
             </div>
           </div>
