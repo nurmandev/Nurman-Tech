@@ -1,0 +1,25 @@
+import { Cta } from "./_components/Cta";
+import { Faq } from "./_components/Faq";
+import { Features } from "./_components/Features";
+import { Hero } from "./_components/Hero";
+import { Pricing } from "./_components/Pricing";
+import Navbar from "@/components/ui/navbar/navbar";
+import BottomSection from "@/components/ui/bottom-section";
+import Footer from "@/components/ui/footer";
+
+export default function Home() {
+  return (
+    <>
+      <Navbar />
+      <Hero />
+      <div className="px-[20px] lg:container lg:px-20 mx-auto">
+        <Features />
+        <Faq />
+        <Pricing />
+        <Cta />
+      </div>
+      <BottomSection />
+      <Footer />
+    </>
+  );
+}
