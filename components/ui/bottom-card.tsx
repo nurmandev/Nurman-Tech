@@ -5,7 +5,7 @@ const BottomCard = () => {
     <div className="pb-40 px-10">
       <div className="border p-10 items-center justify-center md:flex md:w-2/3 mx-auto md:p-20 rounded-[60px] md:rounded-[80px] md:justify-between">
         <div className="text-2xl md:text-5xl items-center font-medium flex text-center px-6">
-          Take your knowledge further
+          Get Our App
         </div>
         <div className="flex">
           <div
