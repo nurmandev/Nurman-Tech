@@ -188,7 +188,7 @@ export default function ContactForm() {
               The world&apos;s most innovative companies use Nurman
             </div>
 
-            <div className="flex flex-col space-y-4 items-center md:items-start">
+            {/* <div className="flex flex-col space-y-4 items-center md:items-start">
               <Image
                 src="/logos/logoipsum-289.svg"
                 alt="Picture of the author"
@@ -228,7 +228,7 @@ export default function ContactForm() {
                 w-40
                 "
               />
-            </div>
+            </div> */}
           </div>
         </div>
       ) : (
