@@ -26,7 +26,7 @@ const FourthSection = () => {
       <div className="md:flex items-center justify-center">
         <div className="md:w-2/5 bg-[#b2b3f1] rounded-[60px] md:p-20">
           <Image
-            src="/images/beauty-portrait.png"
+            src="/images/focused-woman.png"
             alt="image"
             width={1920}
             height={1080}
@@ -46,12 +46,12 @@ const FourthSection = () => {
 
             <div className="w-full md:w-96">
               <div className="text-[#111019] font-medium leading-normal md:text-4xl text-2xl">
-                Brand Recognition
+                I.T Consultancy
               </div>
               <div className="md:text-xl text-[#6c6684] leading-8 md:leading-10 font-light pt-6">
-                We help your brand get noticed everywhere. Our goal is to make
-                sure people know and remember your brand, no matter where they
-                are.
+                Take advantage of our expertise in business development, growth
+                hacking, product development, and startups by using our
+                consultancy services.
               </div>
               <Link href="/contact">
                 <Button
@@ -86,12 +86,11 @@ const FourthSection = () => {
               </div>
               <div className="md:w-96">
                 <div className="text-[#111019] font-medium leading-normal text-xl md:text-4xl">
-                  Time and Distance
+                  Mobile App Development
                 </div>
                 <div className="md:text-xl text-[#6c6684] leading-8 md:leading-10 font-light pt-6">
-                  Don&apos;t worry about time zones or how far away your
-                  customers are. We&apos;ll make sure you can connect with them
-                  easily, no matter where they are in the world.
+                  Create mobile apps with excellent usability and unique
+                  features, whether they are native or hybrid (cross-platform).
                 </div>
 
                 <Link href="/product">
@@ -128,7 +127,7 @@ const FourthSection = () => {
                rounded-[60px]"
           >
             <Image
-              src="/images/workaholic.png"
+              src="/images/mobile.png"
               alt="image"
               width={1920}
               height={1080}
@@ -146,7 +145,7 @@ const FourthSection = () => {
       <div className="pt-10 md:flex items-center justify-center">
         <div className="md:w-2/5 bg-[#b2b3f1] rounded-[60px] md:p-20">
           <Image
-            src="/images/guarantee.jpg"
+            src="/images/guarantee.png"
             alt="image"
             width={1920}
             height={1080}

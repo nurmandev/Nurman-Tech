@@ -9,12 +9,13 @@ import NinthSection from "./_components/ninth-section";
 import BottomCard from "@/components/ui/bottom-card";
 import BottomSection from "@/components/ui/bottom-section";
 import Footer from "@/components/ui/footer";
+import Home from "./_components/home";
 
 const LandingPage = () => {
   return (
     <div>
       <Navbar />
-      <FirstSection />
+      <Home />
       <ThirdSection />
       <FourthSection />
       <FifthSection />

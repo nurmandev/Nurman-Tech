@@ -63,8 +63,9 @@ const ThirdSection = () => {
                     </div>
 
                     <div className="text-lg text-[#3d2e7c] md:leading-10 font-light w-5/6 py-4">
-                      We will elevate your projects to new heights with our
-                      comprehensive project management solutions.
+                      With more than ten years of experience in Product
+                      Development, our team is skilled at creating useful
+                      software products for our clients.
                     </div>
                     <Link href="/product">
                       <Button
