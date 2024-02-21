@@ -6,6 +6,7 @@ import { Pricing } from "./_components/Pricing";
 import Navbar from "@/components/ui/navbar/navbar";
 import BottomSection from "@/components/ui/bottom-section";
 import Footer from "@/components/ui/footer";
+import Services from "./_components/services";
 
 export default function Home() {
   return (
@@ -13,7 +14,8 @@ export default function Home() {
       <Navbar />
       <Hero />
       <div className="px-[20px] lg:container lg:px-20 mx-auto">
-        <Features />
+        <Services/>
+        {/* <Features /> */}
         <Faq />
         <Pricing />
         <Cta />
