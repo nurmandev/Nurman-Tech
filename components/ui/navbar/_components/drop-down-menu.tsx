@@ -25,7 +25,7 @@ const DropdownMenu: React.FC<DropDownMenuProps> = ({ onClose }) => {
         type="single"
         collapsible
       >
-        <AccordionItem className="my-6 border-b" value="item-1">
+        <AccordionItem className="my-6" value="item-1">
           <Link
             href={"/product"}
             className="flex pt-10"
@@ -37,7 +37,7 @@ const DropdownMenu: React.FC<DropDownMenuProps> = ({ onClose }) => {
             <div>Product Management</div>
           </Link>
         </AccordionItem>
-        <AccordionItem className="my-6 border-b" value="item-2">
+        <AccordionItem className="my-6 " value="item-2">
           <Link
             href={"https://www.linkedin.com/company/nurman-tech"}
             className="flex pt-10"
@@ -50,7 +50,7 @@ const DropdownMenu: React.FC<DropDownMenuProps> = ({ onClose }) => {
           </Link>
         </AccordionItem>
 
-        <AccordionItem className="my-6 border-b" value="item-3">
+        <AccordionItem className="my-6" value="item-3">
           <Link
             href={"/about-us"}
             className="flex pt-10"
@@ -62,7 +62,7 @@ const DropdownMenu: React.FC<DropDownMenuProps> = ({ onClose }) => {
             <div>About Us</div>
           </Link>
         </AccordionItem>
-        <AccordionItem className="my-6 border-b" value="item-4">
+        <AccordionItem className="my-6 " value="item-4">
           <Link
             href={"/careers"}
             className="flex pt-10"
@@ -75,7 +75,7 @@ const DropdownMenu: React.FC<DropDownMenuProps> = ({ onClose }) => {
             <div>Careers</div>
           </Link>
         </AccordionItem>
-        <AccordionItem className="my-6 border-b" value="item-4">
+        <AccordionItem className="my-6" value="item-4">
           <Link
             href={"/contact"}
             className="
@@ -86,9 +86,7 @@ const DropdownMenu: React.FC<DropDownMenuProps> = ({ onClose }) => {
             text-xl
             px-6 
             py-4
-            my-6
-      
-            "
+            my-6"
           >
             Contact us
           </Link>
