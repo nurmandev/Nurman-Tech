@@ -21,7 +21,7 @@ const Services = () => {
         services to help you grow your business.
       </p>
 
-      {/* <CardHoverEffectDemo /> */}
+      <CardHoverEffectDemo />
     </div>
   );
 };
