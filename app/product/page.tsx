@@ -1,6 +1,5 @@
 import { Cta } from "./_components/Cta";
 import { Faq } from "./_components/Faq";
-import { Features } from "./_components/Features";
 import { Hero } from "./_components/Hero";
 import { Pricing } from "./_components/Pricing";
 import Navbar from "@/components/ui/navbar/navbar";
@@ -14,8 +13,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <div className="px-[20px] lg:container lg:px-20 mx-auto">
-        <Services/>
-        {/* <Features /> */}
+        <Services />
         <Faq />
         <Pricing />
         <Cta />
