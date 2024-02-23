@@ -27,7 +27,7 @@ const FifthSection = () => {
                       font-medium
                       "
         >
-          Nurman&apos;s - Where Every Project, Idea, Individual Matters.
+          Every Project, Idea, Individual Matters.
         </div>
         <div
           className="

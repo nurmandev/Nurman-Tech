@@ -160,8 +160,7 @@ export default function ContactForm() {
                 <PhoneCall className="text-4xl text-[#4b42ad]" />
               </div>
               <div className="md:text-xl text-[#eff0ff] font-light">
-                Have a specific inquiry or message? Fill out the form below, and
-                We will get back to you as soon as possible.
+                <a href="tel:+2347063889624">+234 706 3889 624</a>
               </div>
             </div>
 
@@ -170,8 +169,8 @@ export default function ContactForm() {
                 <MessageCircleIcon className="text-4xl text-[#4b42ad]" />
               </div>
               <div className="md:text-xl text-[#eff0ff] font-light">
-                We excited to hear from you. Let&apos;s make something great
-                together!
+                Have a specific inquiry or message? Fill out the form below, and
+                We will get back to you as soon as possible.
               </div>
             </div>
 
@@ -383,7 +382,7 @@ export default function ContactForm() {
               render={({ field }) => (
                 <FormItem className="items-center justify-center space-y-4 w-full">
                   <FormLabel className="w-60 text-xs md:text-sm pt-4 text-[#6c6684] font-medium">
-                    HOW CAN OUR SALES TEAM HELP ? *
+                    HOW CAN OUR TEAM HELP YOU? *
                   </FormLabel>
                   <Select
                     onValueChange={field.onChange}
@@ -403,7 +402,7 @@ export default function ContactForm() {
                       <SelectItem value="Learn More">Learn More</SelectItem>
                       <SelectItem value="Get a Quote">Get a Quote</SelectItem>
                       <SelectItem value="How to use Nurman">
-                        How to use Nurman
+                        You have a project
                       </SelectItem>
                       <SelectItem value="Other">Other</SelectItem>
                     </SelectContent>

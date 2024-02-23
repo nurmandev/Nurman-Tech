@@ -86,7 +86,7 @@ const ThirdSection = () => {
                                         
                                         "
                       >
-                        Get Started Now
+                        Explore Our Offer
                       </Button>
                     </Link>
                   </div>

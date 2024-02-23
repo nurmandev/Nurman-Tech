@@ -53,7 +53,7 @@ const FourthSection = () => {
                 hacking, product development, and startups by using our
                 consultancy services.
               </div>
-              <Link href="/contact">
+              {/* <Link href="/contact">
                 <Button
                   className="
                 md:text-lg
@@ -71,7 +71,7 @@ const FourthSection = () => {
                 >
                   Get Stated
                 </Button>
-              </Link>
+              </Link> */}
             </div>
           </div>
         </div>
@@ -93,7 +93,7 @@ const FourthSection = () => {
                   features, whether they are native or hybrid (cross-platform).
                 </div>
 
-                <Link href="/product">
+                {/* <Link href="/product">
                   <Button
                     className="
                             md:text-lg
@@ -111,7 +111,7 @@ const FourthSection = () => {
                   >
                     Get Stated
                   </Button>
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>
@@ -181,7 +181,7 @@ const FourthSection = () => {
                 paying ones. We promise to help you attract more customers and
                 make more sales.
               </div>
-              <Link href="/product">
+              {/* <Link href="/product">
                 <Button
                   className="
                             md:text-lg
@@ -200,7 +200,7 @@ const FourthSection = () => {
                 >
                   Let&apos;s Start
                 </Button>
-              </Link>
+              </Link> */}
             </div>
           </div>
         </div>
